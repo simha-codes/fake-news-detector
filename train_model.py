@@ -60,4 +60,4 @@ print("Saving model and vectorizer...")
 joblib.dump(model, 'LR_model.joblib')
 joblib.dump(tfidf, 'vectorizer.joblib')
 
-print("✅ Training completed successfully!")
+print("Training completed successfully!!!")
